@@ -1,4 +1,5 @@
 # drag-and-drop-vue
+a sample drag and drop component with Vue.js
 
 ## Project setup
 ```
